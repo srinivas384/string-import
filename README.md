@@ -8,3 +8,4 @@ Import the string in the `importString.mjs` file.
 
 <b>Use ES6 module syntax</b>.
 # string-import
+# string-import
